@@ -4,5 +4,4 @@ numpy
 scikit-learn
 matplotlib
 tensorboard
-pickle
 dill
