@@ -7,7 +7,7 @@ import pickle
 import dill
 
 #load Trained model
-model = tf.keras.models.load_model('model.h5')
+model = tf.keras.models.load_model('model.keras')
 
 #load encoder and scaler
 with open('label_encoder_gender.pkl','rb') as file:
